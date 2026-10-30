@@ -1,0 +1,177 @@
+
+product_id,product_name,category,product_type,rating,review_text,gender,price
+P001,HP Pavilion Laptop,Electronics,Laptop,5,Excellent laptop with very good performance and battery,Male,65000
+P001,HP Pavilion Laptop,Electronics,Laptop,4,Good laptop and display quality is excellent,Female,65000
+P001,HP Pavilion Laptop,Electronics,Laptop,5,Very fast and smooth laptop,Unisex,65000
+P001,HP Pavilion Laptop,Electronics,Laptop,4,Battery backup is good and keyboard is comfortable,Male,65000
+P001,HP Pavilion Laptop,Electronics,Laptop,5,Excellent product and worth the money,Female,65000
+P002,Dell Inspiron Laptop,Electronics,Laptop,3,Average performance but good for basic work,Male,58000
+P002,Dell Inspiron Laptop,Electronics,Laptop,3,Laptop is okay but battery could be better,Female,58000
+P002,Dell Inspiron Laptop,Electronics,Laptop,4,Good display and decent performance,Male,58000
+P002,Dell Inspiron Laptop,Electronics,Laptop,2,Performance is slow sometimes,Male,58000
+P002,Dell Inspiron Laptop,Electronics,Laptop,3,Average product for the price,Unisex,58000
+P003,Budget Laptop,Electronics,Laptop,2,Very slow laptop and poor performance,Male,35000
+P003,Budget Laptop,Electronics,Laptop,1,Battery is terrible and laptop becomes very slow,Female,35000
+P003,Budget Laptop,Electronics,Laptop,2,Not worth the money and poor quality,Male,35000
+P003,Budget Laptop,Electronics,Laptop,2,Display quality is poor and performance is bad,Unisex,35000
+P003,Budget Laptop,Electronics,Laptop,1,I am not happy with this product,Female,35000
+P004,Nike Running Shoes,Shoes,Running Shoes,5,Very comfortable running shoes with excellent grip,Male,4500
+P004,Nike Running Shoes,Shoes,Running Shoes,5,Excellent shoes and very comfortable,Female,4500
+P004,Nike Running Shoes,Shoes,Running Shoes,4,Good quality and perfect for running,Male,4500
+P004,Nike Running Shoes,Shoes,Running Shoes,5,Great shoes with excellent comfort,Unisex,4500
+P004,Nike Running Shoes,Shoes,Running Shoes,4,Good product and worth buying,Female,4500
+P005,Cheap Running Shoes,Shoes,Running Shoes,2,Very uncomfortable shoes and poor quality,Male,1800
+P005,Cheap Running Shoes,Shoes,Running Shoes,1,Shoes are uncomfortable and broke quickly,Female,1800
+P005,Cheap Running Shoes,Shoes,Running Shoes,2,Poor quality and bad fitting,Male,1800
+P005,Cheap Running Shoes,Shoes,Running Shoes,2,Not comfortable for running,Unisex,1800
+P005,Cheap Running Shoes,Shoes,Running Shoes,1,Very bad product,Female,1800
+P006,Adidas Sports Shoes,Shoes,Sports Shoes,5,Very comfortable shoes with excellent quality and grip,Male,3800
+P006,Adidas Sports Shoes,Shoes,Sports Shoes,4,Good shoes for running and daily exercise,Female,3800
+P006,Adidas Sports Shoes,Shoes,Sports Shoes,5,Excellent comfort and stylish design,Male,3800
+P006,Adidas Sports Shoes,Shoes,Sports Shoes,4,Good quality shoes and worth the price,Unisex,3800
+P006,Adidas Sports Shoes,Shoes,Sports Shoes,5,Very good product and comfortable for long walks,Female,3800
+P007,Samsung Galaxy Phone,Electronics,Smartphone,5,Excellent phone with very good camera and performance,Male,32000
+P007,Samsung Galaxy Phone,Electronics,Smartphone,4,Good display and battery backup,Female,32000
+P007,Samsung Galaxy Phone,Electronics,Smartphone,5,Fast performance and excellent camera quality,Male,32000
+P007,Samsung Galaxy Phone,Electronics,Smartphone,4,Good phone with smooth performance,Unisex,32000
+P007,Samsung Galaxy Phone,Electronics,Smartphone,5,Excellent smartphone and worth the money,Female,32000
+P008,iPhone 15,Electronics,Smartphone,5,Excellent camera and very smooth performance,Male,65000
+P008,iPhone 15,Electronics,Smartphone,5,Premium phone with excellent build quality,Female,65000
+P008,iPhone 15,Electronics,Smartphone,4,Very good camera and fast performance,Male,65000
+P008,iPhone 15,Electronics,Smartphone,5,Excellent display and smooth user experience,Unisex,65000
+P008,iPhone 15,Electronics,Smartphone,4,Good phone but expensive for the features,Female,65000
+P009,OnePlus Nord Phone,Electronics,Smartphone,5,Very fast phone with excellent performance,Male,28000
+P009,OnePlus Nord Phone,Electronics,Smartphone,4,Good display and battery life,Female,28000
+P009,OnePlus Nord Phone,Electronics,Smartphone,5,Smooth performance and good camera,Male,28000
+P009,OnePlus Nord Phone,Electronics,Smartphone,4,Good smartphone for the price,Unisex,28000
+P009,OnePlus Nord Phone,Electronics,Smartphone,5,Excellent performance and fast charging,Female,28000
+P010,Boat Bluetooth Speaker,Electronics,Bluetooth Speaker,5,Excellent sound quality and strong bass,Male,2500
+P010,Boat Bluetooth Speaker,Electronics,Bluetooth Speaker,4,Good speaker with clear sound,Female,2500
+P010,Boat Bluetooth Speaker,Electronics,Bluetooth Speaker,5,Very loud and powerful sound,Male,2500
+P010,Boat Bluetooth Speaker,Electronics,Bluetooth Speaker,4,Good battery backup and sound quality,Unisex,2500
+P010,Boat Bluetooth Speaker,Electronics,Bluetooth Speaker,5,Excellent speaker and worth buying,Female,2500
+P011,Sony Headphones,Electronics,Headphones,5,Excellent sound quality and comfortable for long use,Male,5500
+P011,Sony Headphones,Electronics,Headphones,4,Good noise cancellation and clear audio,Female,5500
+P011,Sony Headphones,Electronics,Headphones,5,Very comfortable headphones with excellent bass,Male,5500
+P011,Sony Headphones,Electronics,Headphones,4,Good battery life and premium quality,Unisex,5500
+P011,Sony Headphones,Electronics,Headphones,5,Excellent headphones and worth the money,Female,5500
+P012,Levis Jeans,Clothing,Jeans,5,Excellent fitting and very good fabric quality,Male,2200
+P012,Levis Jeans,Clothing,Jeans,4,Good quality jeans with comfortable fitting,Female,2200
+P012,Levis Jeans,Clothing,Jeans,5,Very comfortable and stylish jeans,Male,2200
+P012,Levis Jeans,Clothing,Jeans,4,Good fabric and perfect fitting,Unisex,2200
+P012,Levis Jeans,Clothing,Jeans,5,Excellent product and worth the price,Female,2200
+P013,Puma T-Shirt,Clothing,T-Shirt,4,Good quality cotton and comfortable to wear,Male,1200
+P013,Puma T-Shirt,Clothing,T-Shirt,5,Excellent fabric and stylish design,Female,1200
+P013,Puma T-Shirt,Clothing,T-Shirt,4,Good fitting and comfortable material,Male,1200
+P013,Puma T-Shirt,Clothing,T-Shirt,5,Very good quality and attractive design,Unisex,1200
+P013,Puma T-Shirt,Clothing,T-Shirt,4,Good product for daily use,Female,1200
+P014,LG Smart TV,Electronics,Smart TV,5,Excellent picture quality and smart features,Male,42000
+P014,LG Smart TV,Electronics,Smart TV,4,Good display and clear sound,Female,42000
+P014,LG Smart TV,Electronics,Smart TV,5,Excellent picture quality and easy to use,Male,42000
+P014,LG Smart TV,Electronics,Smart TV,4,Good smart features and display,Unisex,42000
+P014,LG Smart TV,Electronics,Smart TV,5,Very good television and worth buying,Female,42000
+P015,Samsung Washing Machine,Home Appliances,Washing Machine,5,Excellent washing performance and easy to use,Male,28000
+P015,Samsung Washing Machine,Home Appliances,Washing Machine,4,Good washing quality and low noise,Female,28000
+P015,Samsung Washing Machine,Home Appliances,Washing Machine,5,Excellent machine with useful features,Male,28000
+P015,Samsung Washing Machine,Home Appliances,Washing Machine,4,Good performance and energy efficient,Unisex,28000
+P015,Samsung Washing Machine,Home Appliances,Washing Machine,5,Excellent product and worth the money,Female,28000
+P016,Apple MacBook Air,Electronics,Laptop,5,Excellent laptop with fast performance and long battery life,Male,95000
+P016,Apple MacBook Air,Electronics,Laptop,5,Very smooth laptop and excellent display,Female,95000
+P016,Apple MacBook Air,Electronics,Laptop,4,Good performance but expensive,Male,95000
+P016,Apple MacBook Air,Electronics,Laptop,5,Lightweight and very comfortable to carry,Unisex,95000
+P016,Apple MacBook Air,Electronics,Laptop,5,Excellent product and worth the money,Female,95000
+P017,Lenovo IdeaPad Laptop,Electronics,Laptop,4,Good performance and comfortable keyboard,Male,52000
+P017,Lenovo IdeaPad Laptop,Electronics,Laptop,5,Very good laptop for students,Female,52000
+P017,Lenovo IdeaPad Laptop,Electronics,Laptop,4,Good display and decent battery backup,Male,52000
+P017,Lenovo IdeaPad Laptop,Electronics,Laptop,3,Performance is average for heavy applications,Unisex,52000
+P017,Lenovo IdeaPad Laptop,Electronics,Laptop,4,Good laptop for everyday work,Female,52000
+P018,Redmi Note Phone,Electronics,Smartphone,4,Good phone with excellent battery backup,Male,18000
+P018,Redmi Note Phone,Electronics,Smartphone,5,Very good display and smooth performance,Female,18000
+P018,Redmi Note Phone,Electronics,Smartphone,4,Good camera and useful features,Male,18000
+P018,Redmi Note Phone,Electronics,Smartphone,3,Phone is good but camera quality is average,Unisex,18000
+P018,Redmi Note Phone,Electronics,Smartphone,4,Good value for the price,Female,18000
+P019,Realme Smartphone,Electronics,Smartphone,4,Good performance and fast charging,Male,16000
+P019,Realme Smartphone,Electronics,Smartphone,5,Excellent battery and smooth performance,Female,16000
+P019,Realme Smartphone,Electronics,Smartphone,4,Good phone for daily use,Male,16000
+P019,Realme Smartphone,Electronics,Smartphone,2,Camera quality is poor and phone heats sometimes,Unisex,16000
+P019,Realme Smartphone,Electronics,Smartphone,4,Decent phone for the price,Female,16000
+P020,JBL Bluetooth Speaker,Electronics,Bluetooth Speaker,5,Excellent sound and powerful bass,Male,3500
+P020,JBL Bluetooth Speaker,Electronics,Bluetooth Speaker,5,Very clear audio and good battery life,Female,3500
+P020,JBL Bluetooth Speaker,Electronics,Bluetooth Speaker,4,Good speaker for outdoor use,Male,3500
+P020,JBL Bluetooth Speaker,Electronics,Bluetooth Speaker,3,Sound is good but battery could be better,Unisex,3500
+P020,JBL Bluetooth Speaker,Electronics,Bluetooth Speaker,5,Excellent quality and worth buying,Female,3500
+P021,Boat Wireless Earbuds,Electronics,Earbuds,4,Good sound quality and comfortable fit,Male,1800
+P021,Boat Wireless Earbuds,Electronics,Earbuds,5,Excellent earbuds with good battery backup,Female,1800
+P021,Boat Wireless Earbuds,Electronics,Earbuds,4,Clear sound and easy Bluetooth connection,Male,1800
+P021,Boat Wireless Earbuds,Electronics,Earbuds,2,Battery stopped working after some time,Unisex,1800
+P021,Boat Wireless Earbuds,Electronics,Earbuds,4,Good earbuds for the price,Female,1800
+P022,Noise Smart Watch,Electronics,Smart Watch,5,Excellent smartwatch with useful fitness features,Male,2500
+P022,Noise Smart Watch,Electronics,Smart Watch,4,Good display and comfortable strap,Female,2500
+P022,Noise Smart Watch,Electronics,Smart Watch,5,Very useful for tracking daily activity,Male,2500
+P022,Noise Smart Watch,Electronics,Smart Watch,3,Battery backup is only average,Unisex,2500
+P022,Noise Smart Watch,Electronics,Smart Watch,4,Good smartwatch for the price,Female,2500
+P023,Adidas T Shirt,Clothing,T-Shirt,5,Excellent fabric and comfortable to wear,Male,1400
+P023,Adidas T Shirt,Clothing,T-Shirt,4,Good quality and stylish design,Female,1400
+P023,Adidas T Shirt,Clothing,T-Shirt,5,Very comfortable for sports activities,Male,1400
+P023,Adidas T Shirt,Clothing,T-Shirt,3,Color is slightly different from the picture,Unisex,1400
+P023,Adidas T Shirt,Clothing,T-Shirt,4,Good product for regular use,Female,1400
+P024,Puma Running Shoes,Shoes,Running Shoes,5,Excellent running shoes with great comfort,Male,4200
+P024,Puma Running Shoes,Shoes,Running Shoes,4,Good grip and comfortable fitting,Female,4200
+P024,Puma Running Shoes,Shoes,Running Shoes,5,Very lightweight and comfortable shoes,Male,4200
+P024,Puma Running Shoes,Shoes,Running Shoes,3,Shoes are good but size was slightly small,Unisex,4200
+P024,Puma Running Shoes,Shoes,Running Shoes,5,Excellent shoes for daily running,Female,4200
+P025,Woodland Casual Shoes,Shoes,Casual Shoes,5,Very durable shoes with excellent quality,Male,5500
+P025,Woodland Casual Shoes,Shoes,Casual Shoes,4,Good leather quality and strong design,Female,5500
+P025,Woodland Casual Shoes,Shoes,Casual Shoes,5,Very comfortable for long walks,Male,5500
+P025,Woodland Casual Shoes,Shoes,Casual Shoes,2,Shoes are heavy and uncomfortable sometimes,Unisex,5500
+P025,Woodland Casual Shoes,Shoes,Casual Shoes,4,Good quality but slightly expensive,Female,5500
+P026,Levis Denim Jacket,Clothing,Jacket,5,Excellent denim quality and stylish appearance,Male,3500
+P026,Levis Denim Jacket,Clothing,Jacket,4,Good fitting and comfortable material,Female,3500
+P026,Levis Denim Jacket,Clothing,Jacket,5,Very stylish and good quality,Male,3500
+P026,Levis Denim Jacket,Clothing,Jacket,3,Jacket is good but fitting is slightly loose,Unisex,3500
+P026,Levis Denim Jacket,Clothing,Jacket,4,Good jacket for casual wear,Female,3500
+P027,Samsung Smart TV,Electronics,Smart TV,5,Excellent picture quality and clear sound,Male,48000
+P027,Samsung Smart TV,Electronics,Smart TV,5,Very good display and smart features,Female,48000
+P027,Samsung Smart TV,Electronics,Smart TV,4,Good television with easy controls,Male,48000
+P027,Samsung Smart TV,Electronics,Smart TV,2,Software is slow sometimes,Unisex,48000
+P027,Samsung Smart TV,Electronics,Smart TV,5,Excellent TV and worth buying,Female,48000
+P028,Sony LED TV,Electronics,Smart TV,5,Excellent display and very clear picture,Male,55000
+P028,Sony LED TV,Electronics,Smart TV,4,Good sound quality and premium design,Female,55000
+P028,Sony LED TV,Electronics,Smart TV,5,Very impressive picture quality,Male,55000
+P028,Sony LED TV,Electronics,Smart TV,3,TV is good but remote feels complicated,Unisex,55000
+P028,Sony LED TV,Electronics,Smart TV,4,Good quality television,Female,55000
+P029,LG Refrigerator,Home Appliances,Refrigerator,5,Excellent cooling performance and spacious interior,Male,36000
+P029,LG Refrigerator,Home Appliances,Refrigerator,4,Good refrigerator with useful features,Female,36000
+P029,LG Refrigerator,Home Appliances,Refrigerator,5,Very good cooling and low noise,Male,36000
+P029,LG Refrigerator,Home Appliances,Refrigerator,3,Good product but delivery was delayed,Unisex,36000
+P029,LG Refrigerator,Home Appliances,Refrigerator,5,Excellent refrigerator and worth the price,Female,36000
+P030,Samsung Microwave Oven,Home Appliances,Microwave Oven,4,Good microwave with easy controls,Male,12000
+P030,Samsung Microwave Oven,Home Appliances,Microwave Oven,5,Excellent heating performance,Female,12000
+P030,Samsung Microwave Oven,Home Appliances,Microwave Oven,4,Easy to use and good quality,Male,12000
+P030,Samsung Microwave Oven,Home Appliances,Microwave Oven,2,Heating takes too much time sometimes,Unisex,12000
+P030,Samsung Microwave Oven,Home Appliances,Microwave Oven,4,Good product for home use,Female,12000
+P031,Prestige Mixer Grinder,Home Appliances,Mixer Grinder,5,Excellent motor and very powerful performance,Male,4500
+P031,Prestige Mixer Grinder,Home Appliances,Mixer Grinder,4,Good quality and easy to clean,Female,4500
+P031,Prestige Mixer Grinder,Home Appliances,Mixer Grinder,5,Very useful kitchen appliance,Male,4500
+P031,Prestige Mixer Grinder,Home Appliances,Mixer Grinder,2,Machine makes too much noise,Unisex,4500
+P031,Prestige Mixer Grinder,Home Appliances,Mixer Grinder,4,Good mixer for regular kitchen use,Female,4500
+P032,Philips Electric Trimmer,Personal Care,Trimmer,5,Excellent trimmer with sharp and smooth performance,Male,1800
+P032,Philips Electric Trimmer,Personal Care,Trimmer,4,Good battery life and comfortable to use,Female,1800
+P032,Philips Electric Trimmer,Personal Care,Trimmer,5,Very easy to use and clean,Male,1800
+P032,Philips Electric Trimmer,Personal Care,Trimmer,3,Battery backup is average,Unisex,1800
+P032,Philips Electric Trimmer,Personal Care,Trimmer,5,Excellent product for daily grooming,Female,1800
+P033,American Tourister Backpack,Bags,Backpack,5,Excellent backpack with strong material,Male,2200
+P033,American Tourister Backpack,Bags,Backpack,4,Good space and comfortable shoulder straps,Female,2200
+P033,American Tourister Backpack,Bags,Backpack,5,Very durable and useful for college,Male,2200
+P033,American Tourister Backpack,Bags,Backpack,2,Zippers are not very strong,Unisex,2200
+P033,American Tourister Backpack,Bags,Backpack,4,Good backpack for daily use,Female,2200
+P034,Wildcraft Backpack,Bags,Backpack,5,Very strong backpack with excellent storage,Male,1900
+P034,Wildcraft Backpack,Bags,Backpack,4,Good quality and comfortable to carry,Female,1900
+P034,Wildcraft Backpack,Bags,Backpack,5,Excellent bag for travel and college,Male,1900
+P034,Wildcraft Backpack,Bags,Backpack,3,Good bag but padding could be better,Unisex,1900
+P034,Wildcraft Backpack,Bags,Backpack,4,Good value for money,Female,1900
+P035,Mi Power Bank,Electronics,Power Bank,5,Excellent battery capacity and fast charging,Male,1600
+P035,Mi Power Bank,Electronics,Power Bank,4,Good power bank with compact design,Female,1600
+P035,Mi Power Bank,Electronics,Power Bank,5,Very useful and charges devices quickly,Male,1600
+P035,Mi Power Bank,Electronics,Power Bank,2,Charging became slow after some time,Unisex,1600
+P035,Mi Power Bank,Electronics,Power Bank,4,Good product for travel,Female,1600
